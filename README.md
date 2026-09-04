@@ -23,3 +23,8 @@ Para una **Lista Enlazada Simple**, el algoritmo **Merge Sort (Ordenamiento por 
 
 
 <img width="1557" height="1020" alt="Captura de pantalla 2026-09-04 150658" src="https://github.com/user-attachments/assets/a2c1030d-94ea-4064-8afe-1a622b20a237" />
+
+<img width="1538" height="1013" alt="Captura de pantalla 2026-09-04 150810" src="https://github.com/user-attachments/assets/17ad6f9f-dd8d-4732-b078-69eae50a6f27" />
+
+<img width="1557" height="1020" alt="Captura de pantalla 2026-09-04 150658" src="https://github.com/user-attachments/assets/18e99a78-bd51-434d-bd5a-5bbe464f1364" />
+
