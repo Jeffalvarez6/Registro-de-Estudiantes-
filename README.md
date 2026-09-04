@@ -20,3 +20,6 @@ Para una **Lista Enlazada Simple**, el algoritmo **Merge Sort (Ordenamiento por 
 ### 3. Ausencia de Intercambios Costosos de Datos
 * Algoritmos de intercambio como *BubbleSort* o *InsertionSort* requieren copiar los datos o hacer reasignaciones repetitivas de contenido entre nodos ($O(n^2)$ iteraciones).
 * *Merge Sort* solo cambia las referencias del atributo `siguiente`, logrando una complejidad temporal garantizada de $O(n \log n)$ tanto en el peor, promedio como mejor caso.
+
+
+<img width="1557" height="1020" alt="Captura de pantalla 2026-09-04 150658" src="https://github.com/user-attachments/assets/a2c1030d-94ea-4064-8afe-1a622b20a237" />
